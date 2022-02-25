@@ -1,4 +1,3 @@
-import { Dispatch } from 'react';
 import { getCountries } from './Countries.endpoints';
 import { CountriesResponseType } from './Countries.types';
 

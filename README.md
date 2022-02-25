@@ -1,3 +1,33 @@
+# -------------> Executar Projeto <------------------
+
+1 - Execute o Comando "yarn" na raiz do projeto para instalar os node_modules
+2 - Verifique se não há nenhuma quebra de typescript executando o comando "yarn tsc" na raiz do projeto
+3 - Para rodar o development server (webpage) execute o comando "yarn start" na raiz do projeto
+4 - Caso não abra automaticamente a pagina em seu browser, navague para http://localhost:3000/ que é a porta padrão caso não esteja sendo utilizada.
+
+# -------------> Detalhes sobre o cumprimento do desafio <------------------
+
+Para verificar quais bibliotecas foram utilizadas no desenvolvimento desse desafio olhe o arquivo package.json
+
+-- Nesse desafio foi utilizado:
+---- Typescript
+---- React Hooks
+---- react-input-mask
+---- styled-components
+---- Ultima versão do Material UI -> mui/material
+---- Axios para requisição dos países
+
+
+# -------------> CONTATO <------------------
+
+Me conte como estou programando? Seu feedback é muito importante para mim, para isso deixo aqui meios de contato direto comigo:
+
+-- hansr.neto@gmail.com
+-- 15 991057953 (whatsapp)
+-- Hans Rosst Neto (Linkedin)
+
+Muito Obrigado, espero seu feedback!
+
 # Desafio de Frontend
 
 <img src="./img/logo-clubpetro.png"

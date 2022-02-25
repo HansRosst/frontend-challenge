@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 import { deviceSize } from '../../../../utils/Sizes.styles';
 import { Grid } from "@mui/material";
-import Box from '@mui/material/Box';
 
 const StyledGrid = {
   Wrapper: styled.div`
